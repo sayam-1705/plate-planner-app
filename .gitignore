@@ -1,0 +1,11 @@
+# References
+flowchart.drawio
+FlowChart.pdf
+References.txt
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
